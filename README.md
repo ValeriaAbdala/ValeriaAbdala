@@ -27,14 +27,14 @@
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 ---
-
+<!--
 ## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TuUsuario&theme=radical" />
 </p>
-
+-->
 ---
 <!--
 ## 📝 Latest Projects
