@@ -7,8 +7,7 @@
 
 ---
 
-🔭 I’m currently working on **🌐 Currently working with **Amazon Web Services (AWS)** for cloud-based development and deployment.
-**  
+🔭 I’m currently working on **🌐 Currently working with **Amazon Web Services (AWS)** for cloud-based development and deployment.**
 🌱 I’m currently learning **AWS, Cognito, Lambda Functions & Agentic AI Design**  
 📚 I’m passionate about **Software Engineering Research**  
 👯 I’m collaborating on **GitHub repos for educational AI tools**  
