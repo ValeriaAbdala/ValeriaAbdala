@@ -7,13 +7,13 @@
 
 ---
 
-🔭 I’m currently working on **AI-enhanced**  
+🔭 I’m currently working on **🌐 Currently working with **Amazon Web Services (AWS)** for cloud-based development and deployment.
+**  
 🌱 I’m currently learning **AWS, Cognito, Lambda Functions & Agentic AI Design**  
-📚 I’m passionate about **Software Engineering Research**, especially **Software Testing & Evaluation of AI Systems**  
+📚 I’m passionate about **Software Engineering Research**  
 👯 I’m collaborating on **GitHub repos for educational AI tools**  
-💬 Ask me about **system design, test modeling, or AI experiments**  
-📫 How to reach me: [your.email@example.com]  
-⚡ Fun fact: I organize one-shot D&D games when I'm not debugging!
+📫 How to reach me: [https://www.linkedin.com/in/valeria-abdala/]  
+
 
 ---
 
@@ -37,15 +37,16 @@
 </p>
 
 ---
-
+<!--
 ## 📝 Latest Projects
 - 🔬 **ACO4MLPR** – AI-powered path recommendation system for microlearning
 - 🔐 **AgileSecureTests** – Secure software testing strategies in agile environments
 - 📊 **DataVizAI** – Intelligent agent for automatic dataset visualization and insights
 
 ---
+-->
 
 ## 🌐 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TuPerfil)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valeria-abdala/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](abdalavaleria@outlook.com)
 
